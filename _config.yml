@@ -1,0 +1,30 @@
+# Site settings
+title: Chris Guarnold
+description: Associate Professor in Government and AI
+url: "https://chrisguarnold.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Sass settings
+sass:
+  style: compressed
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications
+  - title: Teaching
+    url: /teaching
+  - title: About
+    url: /about
