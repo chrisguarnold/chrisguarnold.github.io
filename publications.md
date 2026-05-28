@@ -9,9 +9,15 @@ permalink: /publications/
 ## Peer Reviewed Articles
 
 <div class="publication">
+  <div class="publication-title">Causal Effects of Trigger Words in Social Media Discussions: A Large-Scale Case Study about UK Politics on Reddit</div>
+  <div class="publication-authors">Antypas, Dimosthenis, Arnold, Christian, Ousidhoum, Nedjma, Perez-Almendros, Carla & Camacho-Collados, Jose</div>
+  <div class="publication-venue"><em>ACM Web Science Conference (WebSci '26)</em>, Braunschweig. (2026) <a href="https://arxiv.org/abs/2405.10213">arXiv</a></div>
+</div>
+
+<div class="publication">
   <div class="publication-title">Reaching for the Threshold: How Minimum Participation Rules Facilitate Multilateral Treaty Ratification</div>
   <div class="publication-authors">Arnold, Christian and Carsten Schulz</div>
-  <div class="publication-venue"><em>Journal of Conflict Resolution</em> (Forthcoming)</div>
+  <div class="publication-venue"><em>Journal of Conflict Resolution</em>, 70(6), p.1018-1043. (2026)</div>
 </div>
 
 <div class="publication">
