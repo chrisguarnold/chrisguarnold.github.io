@@ -38,7 +38,9 @@ title: Home
 
 ## Recent News
 
-- **2026** — "Causal Effects of Trigger Words in Social Media Discussions" presented at ACM WebSci '26, Braunschweig.
-- **2026** - COMPTEXT is coming to Birmingham! Go and tell your friends. #sciencerocks
-- **Forthcoming** - "Reaching for the Threshold: How Minimum Participation Rules Facilitate Multilateral Treaty Ratification" in *Journal of Conflict Resolution*
-- **2026** - New courses: "AI and Global Challenges" and "AI for Government and Policy" at University of Birmingham
+- **May 2026** - Find our paper "Reaching for the Threshold: How Minimum Participation Rules Facilitate Multilateral Treaty Ratification" in the current version of *Journal of Conflict Resolution* 
+- **May 2026** — "Causal Effects of Trigger Words in Social Media Discussions" presented at ACM WebSci '26, Braunschweig.
+- **May 2026** — I was at the University of Western Ontario. Beyond designing our experiment on political debates between LLMs and Humans, I gave a talk titled "The Politics the Camera Reveals". It covered a range of projects on visual politics I am currently working on.
+- "Causal Effects of Trigger Words in Social Media Discussions" presented at ACM WebSci '26, Braunschweig.
+- **April 2026** - COMPTEXT is coming to Birmingham! Go and tell your friends. #sciencerocks
+- **January 2026** - New courses: "AI and Global Challenges" and "AI for Government and Policy" at University of Birmingham
