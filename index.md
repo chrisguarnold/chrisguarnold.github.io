@@ -38,6 +38,7 @@ title: Home
 
 ## Recent News
 
+- **June 2026** — I participated as a panellist on the BISA roundtable "The Challenges and Opportunities of AI in Research," Brighton.
 - **May 2026** - Find our paper "Reaching for the Threshold: How Minimum Participation Rules Facilitate Multilateral Treaty Ratification" in the current version of *Journal of Conflict Resolution* 
 - **May 2026** — "Causal Effects of Trigger Words in Social Media Discussions" presented at ACM WebSci '26, Braunschweig.
 - **May 2026** — I was at the University of Western Ontario. Beyond designing our experiment on political debates between LLMs and Humans, I gave a talk titled "The Politics the Camera Reveals". It covered a range of projects on visual politics I am currently working on.
