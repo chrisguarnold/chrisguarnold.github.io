@@ -10,7 +10,7 @@ title: Home
   <div class="hero-content">
     <h1>Dr Christian Arnold</h1>
     <p>
-      I am an Associate Professor of Government and AI at the University of Birmingham.
+      I am an Associate Professor of Government and AI at the University of Birmingham, and an Associate Member of <a href="https://cardiffnlp.github.io">CardiffNLP</a>, the Natural Language Processing group at Cardiff University.
     </p>
     <p>
       My work helps societies take better decisions. I study how governments, political institutions, and citizens use and are affected by AI tools. Since politics relies on verbal and non-verbal communication, I often analyse text, speech, and visual material jointly. I also examine how systems like
@@ -38,6 +38,12 @@ title: Home
 
 ## Recent News
 
+- **September 2026** — Welcomed the third cohort of the MSc AI & Government and MSc AI & Sustainable Development at the University of Birmingham.
+- **August 2026** — The homepage of our DFG funded project <a href="https://videoparl.github.io/">VideoParl</a> is now live, with Andreas Küpfer and Christian Stecker.
+- **July 2026** — Presenting "Far-Right Speeches and Emotional Contagion in Parliament" at PolMeth, Michigan State University, with Andreas Küpfer and Christian Stecker.
+- **July 2026** — Registered a preanalysis plan on <a href="https://osf.io/bxpgd/overview">OSF</a> for an eye-tracking study on image depth and object prominence in political communication, with Andreas Küpfer — requested by a reviewer ahead of the next round of revisions.
+- **June 2026** — "Reaching for the Threshold" published in *Journal of Conflict Resolution*, 70(6), pp. 1018–1043, with Carsten Schulz.
+- **June 2026** — I had three papers at the European Political Science Society (EPSS) conference, Belfast: "Far-Right Speeches and Emotional Contagion in Parliament: Sequential and Multimodal Evidence from Germany" with Andreas Küpfer and Christian Stecker; "Measuring Media Slant Through Image Analysis" with Andreas Küpfer, Oliver Rittmann, and Michelle Torres; and "Designing, Documenting, and Reusing Qualitative Data in the Age of AI: An Integrative Framework" with Florian G. Kern.
 - **June 2026** — Panellist at the BISA roundtable "The Challenges and Opportunities of AI in Research," Brighton.
 - **May 2026** - Find our paper "Reaching for the Threshold: How Minimum Participation Rules Facilitate Multilateral Treaty Ratification" in the current version of *Journal of Conflict Resolution* 
 - **May 2026** — "Causal Effects of Trigger Words in Social Media Discussions" presented at ACM WebSci '26, Braunschweig.

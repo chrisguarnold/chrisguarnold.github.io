@@ -6,6 +6,8 @@ permalink: /publications/
 
 # Publications
 
+This is the link to the homepage of the DFG funded [VideoParl project](https://videoparl.github.io/), which analyses parliamentary debates with multimodal data.
+
 ## Peer Reviewed Articles
 
 <div class="publication">
@@ -17,7 +19,7 @@ permalink: /publications/
 <div class="publication">
   <div class="publication-title">Reaching for the Threshold: How Minimum Participation Rules Facilitate Multilateral Treaty Ratification</div>
   <div class="publication-authors">Arnold, Christian and Carsten Schulz</div>
-  <div class="publication-venue"><em>Journal of Conflict Resolution</em>, 70(6), p.1018-1043. (2026)</div>
+  <div class="publication-venue"><em>Journal of Conflict Resolution</em>, 70(6), p.1018–1043. (2026) <a href="https://doi.org/10.1177/00220027251390435">https://doi.org/10.1177/00220027251390435</a></div>
 </div>
 
 <div class="publication">
