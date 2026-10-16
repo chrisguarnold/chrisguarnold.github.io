@@ -38,6 +38,7 @@ title: Home
 
 ## Recent News
 
+- **October 2026** — Presenting "Far-Right Speeches and Emotional Contagion in Parliament" at the PSAI Annual Conference, University College Cork, with Andreas Küpfer and Christian Stecker.
 - **September 2026** — Welcomed the third cohort of the MSc AI & Government and MSc AI & Sustainable Development at the University of Birmingham.
 - **August 2026** — The homepage of our DFG funded project <a href="https://videoparl.github.io/">VideoParl</a> is now live, with Andreas Küpfer and Christian Stecker.
 - **July 2026** — Presenting "Far-Right Speeches and Emotional Contagion in Parliament" at PolMeth, Michigan State University, with Andreas Küpfer and Christian Stecker.
